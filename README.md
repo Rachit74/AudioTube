@@ -2,6 +2,7 @@
 AudioTube is a command line based application written in python to download mp3 fromat of any youtube video.
 
 # How to Run
+First download the source code from the release page and then follow the steps given below.
 Fews things that you need to run in application:-
 - Python (version 3.8.1 or higher and added to path)
 - youtube-dl (can be installed with `pip install youtube_dl` once you have installed python)
